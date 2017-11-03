@@ -8,3 +8,6 @@ The bug occurs in the following condition:
 - The form is scaled using the ChangeScale method.
 
 As soon as the buttons are re-enabled, some of the separators will "copy" the icon of the button of their right and the buttons themselves will not be enabled (the separator will). This does not seem to affect the first separator. All other separators will be affected.
+
+
+Case number: 00600080
